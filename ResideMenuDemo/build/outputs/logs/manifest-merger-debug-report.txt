@@ -15,7 +15,7 @@ ADDED from D:\git\AndroidResideMenu\ResideMenuDemo\AndroidManifest.xml:2:1-18:12
 		ADDED from D:\git\AndroidResideMenu\ResideMenuDemo\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from D:\git\AndroidResideMenu\ResideMenuDemo\AndroidManifest.xml:6:5-7:46
-MERGED from [AndroidResideMenu:ResideMenu:unspecified] D:\git\AndroidResideMenu\ResideMenu\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [AndroidResideMenu:ResideMenu:unspecified] D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\exploded-aar\AndroidResideMenu\ResideMenu\unspecified\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		ADDED from D:\git\AndroidResideMenu\ResideMenuDemo\AndroidManifest.xml:7:15-44
 		INJECTED from D:\git\AndroidResideMenu\ResideMenuDemo\AndroidManifest.xml

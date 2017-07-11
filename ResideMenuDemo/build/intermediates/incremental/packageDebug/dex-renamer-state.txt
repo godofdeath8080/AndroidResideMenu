@@ -1,7 +1,4 @@
-#Tue Jul 11 15:09:41 CST 2017
-base.0=D\:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d0232c0fdfdfb4e0d9bc3c7e8e091f73295eaf63
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_804d68f1baa6816d762310a542025b684561e7ba\\classes.dex
-base.1=D\:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_804d68f1baa6816d762310a542025b684561e7ba
-file.0=D\:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d0232c0fdfdfb4e0d9bc3c7e8e091f73295eaf63\\classes.dex
+#Tue Jul 11 15:45:09 CST 2017
+base.0=D\:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
