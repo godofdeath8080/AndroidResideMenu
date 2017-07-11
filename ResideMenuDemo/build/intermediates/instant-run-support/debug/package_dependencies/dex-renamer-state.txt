@@ -1,4 +1,7 @@
-#Tue Jul 11 14:56:17 CST 2017
-base.0=D\:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\20
-renamed.0=classes.dex
-file.0=D\:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\20\\classes.dex
+#Tue Jul 11 15:09:41 CST 2017
+base.0=D\:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\nineoldandroids-library-2.4.0_8b60b19c99da13e654d266c61f345477f2728ecd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_844477c32402466cdc9508824bd0a04f0502f075\\classes.dex
+base.1=D\:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_844477c32402466cdc9508824bd0a04f0502f075
+file.0=D\:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\8\\nineoldandroids-library-2.4.0_8b60b19c99da13e654d266c61f345477f2728ecd\\classes.dex

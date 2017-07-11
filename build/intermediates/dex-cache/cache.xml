@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98cb1b74afd0668cd19df65ae78c33f190a4630c">
+        <dex dex="D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_804d68f1baa6816d762310a542025b684561e7ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\AndroidResideMenu\ResideMenu\build\intermediates\bundles\default\libs\nineoldandroids-library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\transforms\dex\debug\folders\1000\8\nineoldandroids-library-2.4.0_8b60b19c99da13e654d266c61f345477f2728ecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\AndroidResideMenu\ResideMenuDemo\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9c504522d97f64025c387493d3989e52bc617bd">
+        <dex dex="D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_844477c32402466cdc9508824bd0a04f0502f075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d0232c0fdfdfb4e0d9bc3c7e8e091f73295eaf63\classes.dex" />
+    </item>
+
+</items>

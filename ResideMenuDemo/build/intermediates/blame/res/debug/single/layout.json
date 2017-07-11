@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_custom_right_scrollview.xml",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\default\\res\\layout\\residemenu_custom_right_scrollview.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\layout\\calendar.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_custom.xml",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\default\\res\\layout\\residemenu_custom.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\profile.xml",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\default\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_custom_left_scrollview.xml",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\default\\res\\layout\\residemenu_custom_left_scrollview.xml"
+    }
+]
