@@ -32,5 +32,4 @@ proguard/
 gradle/
 gradlew
 gradlew.bat
-build/
 .DS_Store

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\git\AndroidResideMenu\ResideMenuDemo\libs"><file name="android-support-v4.jar" path="D:\git\AndroidResideMenu\ResideMenuDemo\libs\android-support-v4.jar"/></source></dataSet><dataSet config="debug"><source path="D:\git\AndroidResideMenu\ResideMenuDemo\src\debug\jniLibs"/></dataSet></merger>

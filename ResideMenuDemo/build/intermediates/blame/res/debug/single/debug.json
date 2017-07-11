@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_background.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-hdpi\\menu_background.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_calendar.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-hdpi\\icon_calendar.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout_profile.xml.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout_residemenu_custom_left_scrollview.xml.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\layout\\residemenu_custom_left_scrollview.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button.9.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-hdpi\\button.9.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout_residemenu_custom_right_scrollview.xml.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\layout\\residemenu_custom_right_scrollview.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable_titlebar_menu_selector.xml.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable\\titlebar_menu_selector.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout_calendar.xml.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\layout\\calendar.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_bar_menu_on.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-hdpi\\title_bar_menu_on.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_bar_menu.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-hdpi\\title_bar_menu.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout_residemenu_custom.xml.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\layout\\residemenu_custom.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_profile.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-hdpi\\icon_profile.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_frame.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-hdpi\\frame.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout_residemenu_item.xml.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_on.9.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-hdpi\\button_on.9.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_shadow.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\shadow.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_gesture.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-ldpi\\gesture.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout_home.xml.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_home.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-hdpi\\icon_home.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\layout_settings.xml.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable_button_selector.xml.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_settings.png.flat",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\res\\drawable-hdpi\\icon_settings.png"
+    }
+]

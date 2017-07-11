@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":ResideMenu"><source path="D:\git\AndroidResideMenu\ResideMenu\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\git\AndroidResideMenu\ResideMenuDemo\assets"/><source path="D:\git\AndroidResideMenu\ResideMenuDemo\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\git\AndroidResideMenu\ResideMenuDemo\src\debug\assets"/></dataSet></merger>
