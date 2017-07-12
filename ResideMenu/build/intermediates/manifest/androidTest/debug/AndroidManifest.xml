@@ -3,8 +3,8 @@
     package="com.special.ResideMenu.test" >
 
     <uses-sdk
-        android:minSdkVersion="9"
-        android:targetSdkVersion="14" />
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
 
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"

@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\exploded-aar\AndroidResideMenu\ResideMenu\unspecified\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="659414fc6947f517a301ac4d0ec466145c075a1c">
-        <dex dex="D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\pre-dexed\debug\AndroidResideMenu-ResideMenu-unspecified_7e63e817c86de20915408b5ad07e5168b37c555c.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\exploded-aar\AndroidResideMenu\ResideMenu\unspecified\jars\libs\nineoldandroids-library-2.4.0.jar"
         jumboMode="true"
         optimize="true"
@@ -27,6 +18,15 @@
         revision="25.0.0"
         sha1="b9c504522d97f64025c387493d3989e52bc617bd">
         <dex dex="D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\pre-dexed\debug\android-support-v4_844477c32402466cdc9508824bd0a04f0502f075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\exploded-aar\AndroidResideMenu\ResideMenu\unspecified\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990158b69753bc0bb242a27cc9805a3c5d763062">
+        <dex dex="D:\git\AndroidResideMenu\ResideMenuDemo\build\intermediates\pre-dexed\debug\AndroidResideMenu-ResideMenu-unspecified_7e63e817c86de20915408b5ad07e5168b37c555c.jar" />
     </item>
 
 </items>

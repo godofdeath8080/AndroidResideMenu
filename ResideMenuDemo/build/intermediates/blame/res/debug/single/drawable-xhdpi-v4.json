@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\itsm_side_line.png",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\exploded-aar\\AndroidResideMenu\\ResideMenu\\unspecified\\res\\drawable-xhdpi-v4\\itsm_side_line.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\itsm_side_point.png",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\exploded-aar\\AndroidResideMenu\\ResideMenu\\unspecified\\res\\drawable-xhdpi-v4\\itsm_side_point.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_head.png",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenuDemo\\build\\intermediates\\exploded-aar\\AndroidResideMenu\\ResideMenu\\unspecified\\res\\drawable-xhdpi-v4\\setting_head.png"
+    }
+]

@@ -21,32 +21,40 @@ public final class R {
         public static final int icon_home=0x7f020007;
         public static final int icon_profile=0x7f020008;
         public static final int icon_settings=0x7f020009;
-        public static final int menu_background=0x7f02000a;
-        public static final int shadow=0x7f02000b;
-        public static final int title_bar_menu=0x7f02000c;
-        public static final int title_bar_menu_on=0x7f02000d;
-        public static final int titlebar_menu_selector=0x7f02000e;
+        public static final int itsm_side_line=0x7f02000a;
+        public static final int itsm_side_point=0x7f02000b;
+        public static final int menu_background=0x7f02000c;
+        public static final int setting_head=0x7f02000d;
+        public static final int shadow=0x7f02000e;
+        public static final int title_bar_menu=0x7f02000f;
+        public static final int title_bar_menu_on=0x7f020010;
+        public static final int titlebar_menu_selector=0x7f020011;
     }
     public static final class id {
         public static final int btn_open_menu=0x7f060004;
+        public static final int count=0x7f060014;
         public static final int ignored_view=0x7f060001;
         public static final int imageView=0x7f060002;
         public static final int iv_background=0x7f06000a;
-        public static final int iv_icon=0x7f060011;
+        public static final int iv_icon=0x7f060012;
         public static final int iv_shadow=0x7f06000b;
         public static final int layout_left_menu=0x7f06000e;
         public static final int layout_right_menu=0x7f060010;
         public static final int layout_top=0x7f060006;
+        public static final int li1=0x7f060015;
         public static final int listView=0x7f060000;
         public static final int main_fragment=0x7f060009;
+        public static final int person_name=0x7f060017;
+        public static final int person_pic=0x7f060016;
+        public static final int re1=0x7f060011;
         public static final int sv_left_menu=0x7f06000d;
         public static final int sv_menu_holder=0x7f06000c;
         public static final int sv_right_menu=0x7f06000f;
         public static final int textView=0x7f060003;
         public static final int textView1=0x7f060005;
+        public static final int title=0x7f060013;
         public static final int title_bar_left_menu=0x7f060007;
         public static final int title_bar_right_menu=0x7f060008;
-        public static final int tv_title=0x7f060012;
     }
     public static final class layout {
         public static final int calendar=0x7f030000;

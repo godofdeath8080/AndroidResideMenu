@@ -1,25 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="15dp"
+    android:paddingTop="15dp" >
 
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-              android:orientation="horizontal"
-              android:layout_width="match_parent"
-              android:layout_height="wrap_content"
-              android:gravity="center_vertical"
-              android:paddingTop="15dp"
-              android:paddingBottom="15dp">
+    <RelativeLayout
+        android:id="@+id/re1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
 
-    <ImageView
-            android:layout_width="30dp"
-            android:layout_height="30dp"
-            android:scaleType="centerCrop"
-            android:id="@+id/iv_icon"/>
-
-    <TextView
-            android:layout_width="match_parent"
+        <ImageView
+            android:id="@+id/iv_icon"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="@android:color/white"
-            android:textSize="18sp"
-            android:layout_marginLeft="10dp"
-            android:id="@+id/tv_title"/>
+            android:layout_centerVertical="true"
+            android:src="@drawable/itsm_side_point" />
 
-</LinearLayout>
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/count"
+            android:layout_toRightOf="@+id/iv_icon"
+            android:maxLength="18"
+            android:paddingLeft="10dp"
+            android:text="任务单"
+            android:textColor="#8FFFFFFF"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:paddingRight="20dp"
+            android:paddingLeft="5dp"
+            android:textColor="#8FFFFFFF"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:src="@drawable/itsm_side_line" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/li1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right" >
+
+            <ImageView
+                android:id="@+id/person_pic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/setting_head" />
+
+            <TextView
+                android:id="@+id/person_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/person_pic"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:text="未登录"
+                android:textColor="#FFFFFF" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>
