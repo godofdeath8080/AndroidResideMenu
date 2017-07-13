@@ -1,5 +1,17 @@
 [
     {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\itsm_side_line.png",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\itsm_side_line.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\itsm_side_point.png",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\itsm_side_point.png"
+    },
+    {
+        "merged": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\setting_head.png",
+        "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\setting_head.png"
+    },
+    {
         "merged": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "D:\\git\\AndroidResideMenu\\ResideMenu\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
     }

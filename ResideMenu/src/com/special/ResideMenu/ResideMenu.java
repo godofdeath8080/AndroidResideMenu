@@ -137,24 +137,9 @@ public class ResideMenu extends FrameLayout {
 
     @Override
     protected boolean fitSystemWindows(Rect insets) {
-        // Applies the content insets to the view's padding, consuming that
-        // content (modifying the insets to be 0),
-        // and returning true. This behavior is off by default and can be
-        // enabled through setFitsSystemWindows(boolean)
-        // in api14+ devices.
 
-        // This is added to fix soft navigationBar's overlapping to content above LOLLIPOP
-        int bottomPadding = viewActivity.getPaddingBottom() + insets.bottom;
-        boolean hasBackKey = KeyCharacterMap.deviceHasKey(KeyEvent.KEYCODE_BACK);
-        boolean hasHomeKey = KeyCharacterMap.deviceHasKey(KeyEvent.KEYCODE_HOME);
-        if (!hasBackKey || !hasHomeKey) {//there's a navigation bar
-            bottomPadding += getNavigationBarHeight();
-        }
-
-        this.setPadding(viewActivity.getPaddingLeft() + insets.left,
-                viewActivity.getPaddingTop() + insets.top,
-                viewActivity.getPaddingRight() + insets.right,
-                bottomPadding);
+        this.setPadding(viewActivity.getPaddingLeft() + insets.left, viewActivity.getPaddingTop() + insets.top,
+                viewActivity.getPaddingRight() + insets.right, viewActivity.getPaddingBottom() + insets.bottom);
         insets.left = insets.top = insets.right = insets.bottom = 0;
         return true;
     }

@@ -12,18 +12,26 @@ public final class R {
     }
     public static final class drawable {
         public static int ic_launcher=0x7f020000;
-        public static int shadow=0x7f020001;
+        public static int itsm_side_line=0x7f020001;
+        public static int itsm_side_point=0x7f020002;
+        public static int setting_head=0x7f020003;
+        public static int shadow=0x7f020004;
     }
     public static final class id {
+        public static int count=0x7f05000a;
         public static int iv_background=0x7f050000;
-        public static int iv_icon=0x7f050007;
+        public static int iv_icon=0x7f050008;
         public static int iv_shadow=0x7f050001;
         public static int layout_left_menu=0x7f050004;
         public static int layout_right_menu=0x7f050006;
+        public static int li1=0x7f05000b;
+        public static int person_name=0x7f05000d;
+        public static int person_pic=0x7f05000c;
+        public static int re1=0x7f050007;
         public static int sv_left_menu=0x7f050003;
         public static int sv_menu_holder=0x7f050002;
         public static int sv_right_menu=0x7f050005;
-        public static int tv_title=0x7f050008;
+        public static int title=0x7f050009;
     }
     public static final class layout {
         public static int residemenu_custom=0x7f030000;
